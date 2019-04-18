@@ -1,0 +1,3 @@
+[submodule "pip-skeleton"]
+	path = pip-skeleton
+	url = https://github.com/deadlift1226/pip-skeleton.git
